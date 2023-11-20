@@ -1,12 +1,8 @@
 <h1> Svilen Mitev</h1>
 <h3> Life is about Exploring</h3>
 
-- 🌱 I’m currently learning **Python/JS**
+🌱 I’m currently learning **Python/JS**
 
-- 💬 Ask me about **Anything**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
