@@ -1,5 +1,5 @@
-<h1 Svilen Mitev</h1>
-<h3 Life is about Exploring</h3>
+<h1> Svilen Mitev</h1>
+<h3> Life is about Exploring</h3>
 
 - 🌱 I’m currently learning **Python/JS**
 
